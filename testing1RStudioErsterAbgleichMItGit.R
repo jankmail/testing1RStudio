@@ -9,4 +9,6 @@ print("Sth goes wrong")
 
 print("Going to help")
 
-print ("almost do have it")
+print ("almost do have it verändert im Foirefox2122")
+
+
