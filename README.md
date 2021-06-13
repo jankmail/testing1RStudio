@@ -1,2 +1,3 @@
 # testing1RStudio
-Connect RStudio with GitHub
+connect RStudio with GitHub
+20:53
